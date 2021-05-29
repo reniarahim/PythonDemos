@@ -1,0 +1,5 @@
+trans_code,currency_code,plastic_no,credit_amount
+TR1,EUR,1,500
+TR1,USD,2,400
+TR2,USD,1,400
+TR3,USD,1,200
